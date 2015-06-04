@@ -1,0 +1,4 @@
+#! /bin/bash
+
+sudo docker stop ubuntu-php5.3env
+sudo docker rm ubuntu-php5.3env
